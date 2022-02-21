@@ -26,9 +26,12 @@ body{
 }
 
 .brand-logo{
-    height:60px;
-    width:60px;
-    background:url("https://img.icons8.com/fluency/55/000000/twitter--v1.png");
+    height:100px;
+    width:100px;
+    background:url("https://img.icons8.com/fluency/60/000000/twitter--v1.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center ;
     margin:auto;
     border-radius: 50%;
     box-sizing: border-box;
