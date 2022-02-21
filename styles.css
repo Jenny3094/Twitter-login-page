@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2? family=Poppins:wght@400;900display=swap');
 
 body{
-  margin:0;
-  width:100vw;
-  height:100vh;
-  background:#ecf0ecf3;
-  display:flex;
-  align-items:center;
-  text-align:center;
-  justify-content:center;
-  place-items:center;
-  overflow:hidden;
-  font-family:poppins;
+    margin:0;
+    width:100vw;
+    height:100vh;
+    background:#ecf0ecf3;
+    display:flex;
+    align-items:center;
+    text-align:center;
+    justify-content:center;
+    place-items:center;
+    overflow:hidden;
+    font-family:poppins;
 }
 
 .container{
@@ -26,9 +26,9 @@ body{
 }
 
 .brand-logo{
-    height:100px;
-    width:100px;
-    background:url("https://img.icons8.com/fluency/90/000000/twitter--v1.png");
+    height:60px;
+    width:60px;
+    background:url("https://img.icons8.com/fluency/55/000000/twitter--v1.png");
     margin:auto;
     border-radius: 50%;
     box-sizing: border-box;
